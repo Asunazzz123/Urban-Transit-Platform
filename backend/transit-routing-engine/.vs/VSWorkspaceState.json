@@ -1,0 +1,19 @@
+{
+  "OutputFoldersPerTargetSystem": {
+    "\u672C\u5730\u8BA1\u7B97\u673A": [
+      "out\\build\\x64-Debug",
+      "out\\install\\x64-Debug"
+    ]
+  },
+  "ExpandedNodes": [
+    "",
+    "\\include",
+    "\\out",
+    "\\src",
+    "\\src\\bindings",
+    "\\src\\core",
+    "\\src\\data"
+  ],
+  "SelectedNode": "\\src\\data\\MetroToolkit.cpp",
+  "PreviewInSolutionExplorer": false
+}

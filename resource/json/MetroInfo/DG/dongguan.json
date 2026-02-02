@@ -1,0 +1,212 @@
+[
+    {
+        "line": "1",
+        "station": [
+            {
+                "name": "东莞西站",
+                "id": "01",
+                "time_stamp": ""
+            },
+            {
+                "name": "厚德站",
+                "id": "02",
+                "time_stamp": ""
+            },
+            {
+                "name": "昌平站",
+                "id": "03",
+                "time_stamp": ""
+            },
+            {
+                "name": "人民医院站",
+                "id": "04",
+                "time_stamp": ""
+            },
+            {
+                "name": "曲海站",
+                "id": "05",
+                "time_stamp": ""
+            },
+            {
+                "name": "坝头站",
+                "id": "06",
+                "time_stamp": ""
+            },
+            {
+                "name": "元美站",
+                "id": "07",
+                "time_stamp": ""
+            },
+            {
+                "name": "中心广场站",
+                "id": "08",
+                "time_stamp": ""
+            },
+            {
+                "name": "市民中心站",
+                "id": "09",
+                "time_stamp": ""
+            },
+            {
+                "name": "立新站",
+                "id": "10",
+                "time_stamp": ""
+            },
+            {
+                "name": "东城南站",
+                "id": "11",
+                "time_stamp": ""
+            },
+            {
+                "name": "同沙公园站",
+                "id": "12",
+                "time_stamp": ""
+            },
+            {
+                "name": "牛山站",
+                "id": "13",
+                "time_stamp": ""
+            },
+            {
+                "name": "连平站",
+                "id": "14",
+                "time_stamp": ""
+            },
+            {
+                "name": "大岭山站",
+                "id": "15",
+                "time_stamp": ""
+            },
+            {
+                "name": "金桔站",
+                "id": "16",
+                "time_stamp": ""
+            },
+            {
+                "name": "广东医大站",
+                "id": "17",
+                "time_stamp": ""
+            },
+            {
+                "name": "松山湖站",
+                "id": "18",
+                "time_stamp": ""
+            },
+            {
+                "name": "松佛站",
+                "id": "19",
+                "time_stamp": ""
+            },
+            {
+                "name": "大朗站",
+                "id": "20",
+                "time_stamp": ""
+            },
+            {
+                "name": "荔香公园站",
+                "id": "21",
+                "time_stamp": ""
+            },
+            {
+                "name": "凤山站",
+                "id": "22",
+                "time_stamp": ""
+            },
+            {
+                "name": "黄江站",
+                "id": "23",
+                "time_stamp": ""
+            },
+            {
+                "name": "黄牛埔站",
+                "id": "24",
+                "time_stamp": ""
+            },
+            {
+                "name": "梅塘站",
+                "id": "25",
+                "time_stamp": ""
+            }
+        ]
+    },
+    {
+        "line": "2",
+        "station": [
+            {
+                "name": "虎门火车站",
+                "id": "01",
+                "time_stamp": ""
+            },
+            {
+                "name": "展览中心站",
+                "id": "02",
+                "time_stamp": ""
+            },
+            {
+                "name": "珊美站",
+                "id": "03",
+                "time_stamp": ""
+            },
+            {
+                "name": "寮厦站",
+                "id": "04",
+                "time_stamp": ""
+            },
+            {
+                "name": "陈屋站",
+                "id": "05",
+                "time_stamp": ""
+            },
+            {
+                "name": "蛤地站",
+                "id": "06",
+                "time_stamp": ""
+            },
+            {
+                "name": "西平站",
+                "id": "07",
+                "time_stamp": ""
+            },
+            {
+                "name": "市民中心站",
+                "id": "08",
+                "time_stamp": ""
+            },
+            {
+                "name": "旗峰公园站",
+                "id": "09",
+                "time_stamp": ""
+            },
+            {
+                "name": "东城站",
+                "id": "10",
+                "time_stamp": ""
+            },
+            {
+                "name": "天宝站",
+                "id": "11",
+                "time_stamp": ""
+            },
+            {
+                "name": "下桥站",
+                "id": "12",
+                "time_stamp": ""
+            },
+            {
+                "name": "榴花公园站",
+                "id": "13",
+                "time_stamp": ""
+            },
+            {
+                "name": "茶山站",
+                "id": "14",
+                "time_stamp": ""
+            },
+            {
+                "name": "东莞火车站",
+                "id": "15",
+                "time_stamp": ""
+            }
+        ]
+    }
+]

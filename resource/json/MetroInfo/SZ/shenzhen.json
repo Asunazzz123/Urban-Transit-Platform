@@ -1,0 +1,2187 @@
+[
+    {
+        "line": "1",
+        "station": [
+            {
+                "name": "罗湖站",
+                "id": "01",
+                "time_stamp": ""
+            },
+            {
+                "name": "国贸站",
+                "id": "02",
+                "time_stamp": ""
+            },
+            {
+                "name": "老街站",
+                "id": "03",
+                "time_stamp": ""
+            },
+            {
+                "name": "大剧院站",
+                "id": "04",
+                "time_stamp": ""
+            },
+            {
+                "name": "科学馆站",
+                "id": "05",
+                "time_stamp": ""
+            },
+            {
+                "name": "华强路站",
+                "id": "06",
+                "time_stamp": ""
+            },
+            {
+                "name": "岗厦站",
+                "id": "07",
+                "time_stamp": ""
+            },
+            {
+                "name": "会展中心站",
+                "id": "08",
+                "time_stamp": ""
+            },
+            {
+                "name": "购物公园站",
+                "id": "09",
+                "time_stamp": ""
+            },
+            {
+                "name": "香蜜湖站",
+                "id": "10",
+                "time_stamp": ""
+            },
+            {
+                "name": "车公庙站",
+                "id": "11",
+                "time_stamp": ""
+            },
+            {
+                "name": "竹子林站",
+                "id": "12",
+                "time_stamp": ""
+            },
+            {
+                "name": "侨城东站",
+                "id": "13",
+                "time_stamp": ""
+            },
+            {
+                "name": "华侨城站",
+                "id": "14",
+                "time_stamp": ""
+            },
+            {
+                "name": "世界之窗站",
+                "id": "15",
+                "time_stamp": ""
+            },
+            {
+                "name": "白石洲站",
+                "id": "16",
+                "time_stamp": ""
+            },
+            {
+                "name": "高新园站",
+                "id": "17",
+                "time_stamp": ""
+            },
+            {
+                "name": "深大站",
+                "id": "18",
+                "time_stamp": ""
+            },
+            {
+                "name": "桃园站",
+                "id": "19",
+                "time_stamp": ""
+            },
+            {
+                "name": "大新站",
+                "id": "20",
+                "time_stamp": ""
+            },
+            {
+                "name": "鲤鱼门站",
+                "id": "21",
+                "time_stamp": ""
+            },
+            {
+                "name": "前海湾站",
+                "id": "22",
+                "time_stamp": ""
+            },
+            {
+                "name": "新安站",
+                "id": "23",
+                "time_stamp": ""
+            },
+            {
+                "name": "宝安中心站",
+                "id": "24",
+                "time_stamp": ""
+            },
+            {
+                "name": "宝体站",
+                "id": "25",
+                "time_stamp": ""
+            },
+            {
+                "name": "坪洲站",
+                "id": "26",
+                "time_stamp": ""
+            },
+            {
+                "name": "西乡站",
+                "id": "27",
+                "time_stamp": ""
+            },
+            {
+                "name": "固戍站",
+                "id": "28",
+                "time_stamp": ""
+            },
+            {
+                "name": "后瑞站",
+                "id": "29",
+                "time_stamp": ""
+            },
+            {
+                "name": "机场东站",
+                "id": "30",
+                "time_stamp": ""
+            }
+        ]
+    },
+    {
+        "line": "2&8",
+        "station": [
+            {
+                "name": "赤湾站",
+                "id": "01",
+                "time_stamp": ""
+            },
+            {
+                "name": "蛇口港站",
+                "id": "02",
+                "time_stamp": ""
+            },
+            {
+                "name": "海上世界站",
+                "id": "03",
+                "time_stamp": ""
+            },
+            {
+                "name": "水湾站",
+                "id": "04",
+                "time_stamp": ""
+            },
+            {
+                "name": "东角头站",
+                "id": "05",
+                "time_stamp": ""
+            },
+            {
+                "name": "湾厦站",
+                "id": "06",
+                "time_stamp": ""
+            },
+            {
+                "name": "海月站",
+                "id": "07",
+                "time_stamp": ""
+            },
+            {
+                "name": "登良站",
+                "id": "08",
+                "time_stamp": ""
+            },
+            {
+                "name": "后海站",
+                "id": "09",
+                "time_stamp": ""
+            },
+            {
+                "name": "科苑站",
+                "id": "10",
+                "time_stamp": ""
+            },
+            {
+                "name": "红树湾站",
+                "id": "11",
+                "time_stamp": ""
+            },
+            {
+                "name": "世界之窗站",
+                "id": "12",
+                "time_stamp": ""
+            },
+            {
+                "name": "侨城北站",
+                "id": "13",
+                "time_stamp": ""
+            },
+            {
+                "name": "深康站",
+                "id": "14",
+                "time_stamp": ""
+            },
+            {
+                "name": "安托山站",
+                "id": "15",
+                "time_stamp": ""
+            },
+            {
+                "name": "侨香站",
+                "id": "16",
+                "time_stamp": ""
+            },
+            {
+                "name": "香蜜站",
+                "id": "17",
+                "time_stamp": ""
+            },
+            {
+                "name": "香梅北站",
+                "id": "18",
+                "time_stamp": ""
+            },
+            {
+                "name": "景田站",
+                "id": "19",
+                "time_stamp": ""
+            },
+            {
+                "name": "莲花西站",
+                "id": "20",
+                "time_stamp": ""
+            },
+            {
+                "name": "福田站",
+                "id": "21",
+                "time_stamp": ""
+            },
+            {
+                "name": "市民中心站",
+                "id": "22",
+                "time_stamp": ""
+            },
+            {
+                "name": "岗厦北站",
+                "id": "23",
+                "time_stamp": ""
+            },
+            {
+                "name": "华强北站",
+                "id": "24",
+                "time_stamp": ""
+            },
+            {
+                "name": "燕南站",
+                "id": "25",
+                "time_stamp": ""
+            },
+            {
+                "name": "大剧院站",
+                "id": "26",
+                "time_stamp": ""
+            },
+            {
+                "name": "湖贝站",
+                "id": "27",
+                "time_stamp": ""
+            },
+            {
+                "name": "黄贝岭站",
+                "id": "28",
+                "time_stamp": ""
+            },
+            {
+                "name": "新秀站",
+                "id": "29",
+                "time_stamp": ""
+            },
+            {
+                "name": "莲塘口岸站",
+                "id": "30",
+                "time_stamp": ""
+            },
+            {
+                "name": "仙湖路站",
+                "id": "31",
+                "time_stamp": ""
+            },
+            {
+                "name": "莲塘站",
+                "id": "32",
+                "time_stamp": ""
+            },
+            {
+                "name": "梧桐山南站",
+                "id": "33",
+                "time_stamp": ""
+            },
+            {
+                "name": "沙头角站",
+                "id": "34",
+                "time_stamp": ""
+            },
+            {
+                "name": "海山站",
+                "id": "35",
+                "time_stamp": ""
+            },
+            {
+                "name": "盐田港西站",
+                "id": "36",
+                "time_stamp": ""
+            },
+            {
+                "name": "深外高中站",
+                "id": "37",
+                "time_stamp": ""
+            },
+            {
+                "name": "盐田路站",
+                "id": "38",
+                "time_stamp": ""
+            },
+            {
+                "name": "鸿安围站",
+                "id": "39",
+                "time_stamp": ""
+            },
+            {
+                "name": "盐田墟站",
+                "id": "40",
+                "time_stamp": ""
+            },
+            {
+                "name": "大梅沙站",
+                "id": "41",
+                "time_stamp": ""
+            },
+            {
+                "name": "小梅沙站",
+                "id": "42",
+                "time_stamp": ""
+            },
+            {
+                "name": "溪涌站",
+                "id": "43",
+                "time_stamp": ""
+            }
+        ]
+    },
+    {
+        "line": "3",
+        "station": [
+            {
+                "name": "福保站",
+                "id": "01",
+                "time_stamp": ""
+            },
+            {
+                "name": "益田站",
+                "id": "02",
+                "time_stamp": ""
+            },
+            {
+                "name": "石厦站",
+                "id": "03",
+                "time_stamp": ""
+            },
+            {
+                "name": "购物公园站",
+                "id": "04",
+                "time_stamp": ""
+            },
+            {
+                "name": "福田站",
+                "id": "05",
+                "time_stamp": ""
+            },
+            {
+                "name": "少年宫站",
+                "id": "06",
+                "time_stamp": ""
+            },
+            {
+                "name": "莲花村站",
+                "id": "07",
+                "time_stamp": ""
+            },
+            {
+                "name": "华新站",
+                "id": "08",
+                "time_stamp": ""
+            },
+            {
+                "name": "通新岭站",
+                "id": "09",
+                "time_stamp": ""
+            },
+            {
+                "name": "红岭站",
+                "id": "10",
+                "time_stamp": ""
+            },
+            {
+                "name": "老街站",
+                "id": "11",
+                "time_stamp": ""
+            },
+            {
+                "name": "晒布站",
+                "id": "12",
+                "time_stamp": ""
+            },
+            {
+                "name": "翠竹站",
+                "id": "13",
+                "time_stamp": ""
+            },
+            {
+                "name": "田贝站",
+                "id": "14",
+                "time_stamp": ""
+            },
+            {
+                "name": "水贝站",
+                "id": "15",
+                "time_stamp": ""
+            },
+            {
+                "name": "草埔站",
+                "id": "16",
+                "time_stamp": ""
+            },
+            {
+                "name": "布吉站",
+                "id": "17",
+                "time_stamp": ""
+            },
+            {
+                "name": "木棉湾站",
+                "id": "18",
+                "time_stamp": ""
+            },
+            {
+                "name": "大芬站",
+                "id": "19",
+                "time_stamp": ""
+            },
+            {
+                "name": "丹竹头站",
+                "id": "20",
+                "time_stamp": ""
+            },
+            {
+                "name": "六约站",
+                "id": "21",
+                "time_stamp": ""
+            },
+            {
+                "name": "塘坑站",
+                "id": "22",
+                "time_stamp": ""
+            },
+            {
+                "name": "横岗站",
+                "id": "23",
+                "time_stamp": ""
+            },
+            {
+                "name": "永湖站",
+                "id": "24",
+                "time_stamp": ""
+            },
+            {
+                "name": "荷坳站",
+                "id": "25",
+                "time_stamp": ""
+            },
+            {
+                "name": "大运站",
+                "id": "26",
+                "time_stamp": ""
+            },
+            {
+                "name": "爱联站",
+                "id": "27",
+                "time_stamp": ""
+            },
+            {
+                "name": "吉祥站",
+                "id": "28",
+                "time_stamp": ""
+            },
+            {
+                "name": "龙城广场站",
+                "id": "29",
+                "time_stamp": ""
+            },
+            {
+                "name": "南联站",
+                "id": "30",
+                "time_stamp": ""
+            },
+            {
+                "name": "双龙站",
+                "id": "31",
+                "time_stamp": ""
+            },
+            {
+                "name": "梨园站",
+                "id": "32",
+                "time_stamp": ""
+            },
+            {
+                "name": "新生站",
+                "id": "33",
+                "time_stamp": ""
+            },
+            {
+                "name": "坪西站",
+                "id": "34",
+                "time_stamp": ""
+            },
+            {
+                "name": "低碳城站",
+                "id": "35",
+                "time_stamp": ""
+            },
+            {
+                "name": "白石塘站",
+                "id": "36",
+                "time_stamp": ""
+            },
+            {
+                "name": "富坪站",
+                "id": "37",
+                "time_stamp": ""
+            },
+            {
+                "name": "坪地六联站",
+                "id": "38",
+                "time_stamp": ""
+            }
+        ]
+    },
+    {
+        "line": "4",
+        "station": [
+            {
+                "name": "福田口岸站",
+                "id": "01",
+                "time_stamp": ""
+            },
+            {
+                "name": "福民站",
+                "id": "02",
+                "time_stamp": ""
+            },
+            {
+                "name": "会展中心站",
+                "id": "03",
+                "time_stamp": ""
+            },
+            {
+                "name": "市民中心站",
+                "id": "04",
+                "time_stamp": ""
+            },
+            {
+                "name": "少年宫站",
+                "id": "05",
+                "time_stamp": ""
+            },
+            {
+                "name": "莲花北站",
+                "id": "06",
+                "time_stamp": ""
+            },
+            {
+                "name": "上梅林站",
+                "id": "07",
+                "time_stamp": ""
+            },
+            {
+                "name": "民乐站",
+                "id": "08",
+                "time_stamp": ""
+            },
+            {
+                "name": "白石龙站",
+                "id": "09",
+                "time_stamp": ""
+            },
+            {
+                "name": "深圳北站",
+                "id": "10",
+                "time_stamp": ""
+            },
+            {
+                "name": "红山站",
+                "id": "11",
+                "time_stamp": ""
+            },
+            {
+                "name": "上塘站",
+                "id": "12",
+                "time_stamp": ""
+            },
+            {
+                "name": "龙胜站",
+                "id": "13",
+                "time_stamp": ""
+            },
+            {
+                "name": "龙华站",
+                "id": "14",
+                "time_stamp": ""
+            },
+            {
+                "name": "清湖站",
+                "id": "15",
+                "time_stamp": ""
+            },
+            {
+                "name": "清湖北站",
+                "id": "16",
+                "time_stamp": ""
+            },
+            {
+                "name": "竹村站",
+                "id": "17",
+                "time_stamp": ""
+            },
+            {
+                "name": "茜坑站",
+                "id": "18",
+                "time_stamp": ""
+            },
+            {
+                "name": "长湖站",
+                "id": "19",
+                "time_stamp": ""
+            },
+            {
+                "name": "观澜站",
+                "id": "20",
+                "time_stamp": ""
+            },
+            {
+                "name": "松元厦站",
+                "id": "21",
+                "time_stamp": ""
+            },
+            {
+                "name": "观澜湖站",
+                "id": "22",
+                "time_stamp": ""
+            },
+            {
+                "name": "牛湖站",
+                "id": "23",
+                "time_stamp": ""
+            }
+        ]
+    },
+    {
+        "line": "5",
+        "station": [
+            {
+                "name": "赤湾站",
+                "id": "01",
+                "time_stamp": ""
+            },
+            {
+                "name": "荔湾站",
+                "id": "02",
+                "time_stamp": ""
+            },
+            {
+                "name": "铁路公园站",
+                "id": "03",
+                "time_stamp": ""
+            },
+            {
+                "name": "妈湾站",
+                "id": "04",
+                "time_stamp": ""
+            },
+            {
+                "name": "前湾公园站",
+                "id": "05",
+                "time_stamp": ""
+            },
+            {
+                "name": "前湾站",
+                "id": "06",
+                "time_stamp": ""
+            },
+            {
+                "name": "桂湾站",
+                "id": "07",
+                "time_stamp": ""
+            },
+            {
+                "name": "前海湾站",
+                "id": "08",
+                "time_stamp": ""
+            },
+            {
+                "name": "临海站",
+                "id": "09",
+                "time_stamp": ""
+            },
+            {
+                "name": "宝华站",
+                "id": "10",
+                "time_stamp": ""
+            },
+            {
+                "name": "宝安中心站",
+                "id": "11",
+                "time_stamp": ""
+            },
+            {
+                "name": "翻身站",
+                "id": "12",
+                "time_stamp": ""
+            },
+            {
+                "name": "灵芝站",
+                "id": "13",
+                "time_stamp": ""
+            },
+            {
+                "name": "洪浪北站",
+                "id": "14",
+                "time_stamp": ""
+            },
+            {
+                "name": "兴东站",
+                "id": "15",
+                "time_stamp": ""
+            },
+            {
+                "name": "留仙洞站",
+                "id": "16",
+                "time_stamp": ""
+            },
+            {
+                "name": "西丽站",
+                "id": "17",
+                "time_stamp": ""
+            },
+            {
+                "name": "学城站",
+                "id": "18",
+                "time_stamp": ""
+            },
+            {
+                "name": "塘朗站",
+                "id": "19",
+                "time_stamp": ""
+            },
+            {
+                "name": "长岭陂站",
+                "id": "20",
+                "time_stamp": ""
+            },
+            {
+                "name": "深圳北站",
+                "id": "21",
+                "time_stamp": ""
+            },
+            {
+                "name": "民治站",
+                "id": "22",
+                "time_stamp": ""
+            },
+            {
+                "name": "五和站",
+                "id": "23",
+                "time_stamp": ""
+            },
+            {
+                "name": "坂田站",
+                "id": "24",
+                "time_stamp": ""
+            },
+            {
+                "name": "杨美站",
+                "id": "25",
+                "time_stamp": ""
+            },
+            {
+                "name": "上水径站",
+                "id": "26",
+                "time_stamp": ""
+            },
+            {
+                "name": "下水径站",
+                "id": "27",
+                "time_stamp": ""
+            },
+            {
+                "name": "长龙站",
+                "id": "28",
+                "time_stamp": ""
+            },
+            {
+                "name": "布吉站",
+                "id": "29",
+                "time_stamp": ""
+            },
+            {
+                "name": "百鸽笼站",
+                "id": "30",
+                "time_stamp": ""
+            },
+            {
+                "name": "布心站",
+                "id": "31",
+                "time_stamp": ""
+            },
+            {
+                "name": "太安站",
+                "id": "32",
+                "time_stamp": ""
+            },
+            {
+                "name": "怡景站",
+                "id": "33",
+                "time_stamp": ""
+            },
+            {
+                "name": "黄贝岭站",
+                "id": "34",
+                "time_stamp": ""
+            },
+            {
+                "name": "湖贝站",
+                "id": "35",
+                "time_stamp": ""
+            },
+            {
+                "name": "东门站",
+                "id": "36",
+                "time_stamp": ""
+            },
+            {
+                "name": "大剧院站",
+                "id": "37",
+                "time_stamp": ""
+            }
+        ]
+    },
+    {
+        "line": "6",
+        "station": [
+            {
+                "name": "科学馆站",
+                "id": "01",
+                "time_stamp": ""
+            },
+            {
+                "name": "通新岭站",
+                "id": "02",
+                "time_stamp": ""
+            },
+            {
+                "name": "体育中心站",
+                "id": "03",
+                "time_stamp": ""
+            },
+            {
+                "name": "八卦岭站",
+                "id": "04",
+                "time_stamp": ""
+            },
+            {
+                "name": "银湖站",
+                "id": "05",
+                "time_stamp": ""
+            },
+            {
+                "name": "翰岭站",
+                "id": "06",
+                "time_stamp": ""
+            },
+            {
+                "name": "梅林关站",
+                "id": "07",
+                "time_stamp": ""
+            },
+            {
+                "name": "深圳北站",
+                "id": "08",
+                "time_stamp": ""
+            },
+            {
+                "name": "红山站",
+                "id": "09",
+                "time_stamp": ""
+            },
+            {
+                "name": "上芬站",
+                "id": "10",
+                "time_stamp": ""
+            },
+            {
+                "name": "元芬站",
+                "id": "11",
+                "time_stamp": ""
+            },
+            {
+                "name": "阳台山东站",
+                "id": "12",
+                "time_stamp": ""
+            },
+            {
+                "name": "官田站",
+                "id": "13",
+                "time_stamp": ""
+            },
+            {
+                "name": "上屋站",
+                "id": "14",
+                "time_stamp": ""
+            },
+            {
+                "name": "长圳站",
+                "id": "15",
+                "time_stamp": ""
+            },
+            {
+                "name": "凤凰城站",
+                "id": "16",
+                "time_stamp": ""
+            },
+            {
+                "name": "光明大街站",
+                "id": "17",
+                "time_stamp": ""
+            },
+            {
+                "name": "光明站",
+                "id": "18",
+                "time_stamp": ""
+            },
+            {
+                "name": "科学公园站",
+                "id": "19",
+                "time_stamp": ""
+            },
+            {
+                "name": "楼村站",
+                "id": "20",
+                "time_stamp": ""
+            },
+            {
+                "name": "红花山站",
+                "id": "21",
+                "time_stamp": ""
+            },
+            {
+                "name": "公明广场站",
+                "id": "22",
+                "time_stamp": ""
+            },
+            {
+                "name": "合水口站",
+                "id": "23",
+                "time_stamp": ""
+            },
+            {
+                "name": "薯田埔站",
+                "id": "24",
+                "time_stamp": ""
+            },
+            {
+                "name": "松岗公园站",
+                "id": "25",
+                "time_stamp": ""
+            },
+            {
+                "name": "溪头站",
+                "id": "26",
+                "time_stamp": ""
+            },
+            {
+                "name": "松岗站",
+                "id": "27",
+                "time_stamp": ""
+            }
+        ]
+    },
+    {
+        "line": "6支线",
+        "station": [
+            {
+                "name": "深理工站",
+                "id": "01",
+                "time_stamp": ""
+            },
+            {
+                "name": "中大站",
+                "id": "02",
+                "time_stamp": ""
+            },
+            {
+                "name": "圳美站",
+                "id": "03",
+                "time_stamp": ""
+            },
+            {
+                "name": "光明站",
+                "id": "04",
+                "time_stamp": ""
+            },
+            {
+                "name": "碧眼站",
+                "id": "05",
+                "time_stamp": ""
+            },
+            {
+                "name": "虹桥公园站",
+                "id": "06",
+                "time_stamp": ""
+            },
+            {
+                "name": "光明城站",
+                "id": "07",
+                "time_stamp": ""
+            }
+        ]
+    },
+    {
+        "line": "7",
+        "station": [
+            {
+                "name": "深大丽湖站",
+                "id": "01",
+                "time_stamp": ""
+            },
+            {
+                "name": "北大站",
+                "id": "02",
+                "time_stamp": ""
+            },
+            {
+                "name": "西丽湖站",
+                "id": "03",
+                "time_stamp": ""
+            },
+            {
+                "name": "西丽站",
+                "id": "04",
+                "time_stamp": ""
+            },
+            {
+                "name": "茶光站",
+                "id": "05",
+                "time_stamp": ""
+            },
+            {
+                "name": "珠光站",
+                "id": "06",
+                "time_stamp": ""
+            },
+            {
+                "name": "龙井站",
+                "id": "07",
+                "time_stamp": ""
+            },
+            {
+                "name": "桃源村站",
+                "id": "08",
+                "time_stamp": ""
+            },
+            {
+                "name": "深云站",
+                "id": "09",
+                "time_stamp": ""
+            },
+            {
+                "name": "安托山站",
+                "id": "10",
+                "time_stamp": ""
+            },
+            {
+                "name": "农林站",
+                "id": "11",
+                "time_stamp": ""
+            },
+            {
+                "name": "车公庙站",
+                "id": "12",
+                "time_stamp": ""
+            },
+            {
+                "name": "上沙站",
+                "id": "13",
+                "time_stamp": ""
+            },
+            {
+                "name": "沙尾站",
+                "id": "14",
+                "time_stamp": ""
+            },
+            {
+                "name": "石厦站",
+                "id": "15",
+                "time_stamp": ""
+            },
+            {
+                "name": "皇岗村站",
+                "id": "16",
+                "time_stamp": ""
+            },
+            {
+                "name": "福民站",
+                "id": "17",
+                "time_stamp": ""
+            },
+            {
+                "name": "皇岗口岸站",
+                "id": "18",
+                "time_stamp": ""
+            },
+            {
+                "name": "赤尾站",
+                "id": "19",
+                "time_stamp": ""
+            },
+            {
+                "name": "华强南站",
+                "id": "20",
+                "time_stamp": ""
+            },
+            {
+                "name": "华强北站",
+                "id": "21",
+                "time_stamp": ""
+            },
+            {
+                "name": "华新站",
+                "id": "22",
+                "time_stamp": ""
+            },
+            {
+                "name": "黄木岗站",
+                "id": "23",
+                "time_stamp": ""
+            },
+            {
+                "name": "八卦岭站",
+                "id": "24",
+                "time_stamp": ""
+            },
+            {
+                "name": "红岭北站",
+                "id": "25",
+                "time_stamp": ""
+            },
+            {
+                "name": "笋岗站",
+                "id": "26",
+                "time_stamp": ""
+            },
+            {
+                "name": "洪湖站",
+                "id": "27",
+                "time_stamp": ""
+            },
+            {
+                "name": "田贝站",
+                "id": "28",
+                "time_stamp": ""
+            },
+            {
+                "name": "太安站",
+                "id": "29",
+                "time_stamp": ""
+            }
+        ]
+    },
+    {
+        "line": "9",
+        "station": [
+            {
+                "name": "前湾站",
+                "id": "01",
+                "time_stamp": ""
+            },
+            {
+                "name": "梦海站",
+                "id": "02",
+                "time_stamp": ""
+            },
+            {
+                "name": "怡海站",
+                "id": "03",
+                "time_stamp": ""
+            },
+            {
+                "name": "荔林站",
+                "id": "04",
+                "time_stamp": ""
+            },
+            {
+                "name": "南油西站",
+                "id": "05",
+                "time_stamp": ""
+            },
+            {
+                "name": "南油站",
+                "id": "06",
+                "time_stamp": ""
+            },
+            {
+                "name": "南山书城站",
+                "id": "07",
+                "time_stamp": ""
+            },
+            {
+                "name": "深大南站",
+                "id": "08",
+                "time_stamp": ""
+            },
+            {
+                "name": "粤海门站",
+                "id": "09",
+                "time_stamp": ""
+            },
+            {
+                "name": "高新南站",
+                "id": "10",
+                "time_stamp": ""
+            },
+            {
+                "name": "红树湾南站",
+                "id": "11",
+                "time_stamp": ""
+            },
+            {
+                "name": "深湾站",
+                "id": "12",
+                "time_stamp": ""
+            },
+            {
+                "name": "深圳湾公园站",
+                "id": "13",
+                "time_stamp": ""
+            },
+            {
+                "name": "下沙站",
+                "id": "14",
+                "time_stamp": ""
+            },
+            {
+                "name": "车公庙站",
+                "id": "15",
+                "time_stamp": ""
+            },
+            {
+                "name": "香梅站",
+                "id": "16",
+                "time_stamp": ""
+            },
+            {
+                "name": "景田站",
+                "id": "17",
+                "time_stamp": ""
+            },
+            {
+                "name": "梅景站",
+                "id": "18",
+                "time_stamp": ""
+            },
+            {
+                "name": "下梅林站",
+                "id": "19",
+                "time_stamp": ""
+            },
+            {
+                "name": "梅村站",
+                "id": "20",
+                "time_stamp": ""
+            },
+            {
+                "name": "上梅林站",
+                "id": "21",
+                "time_stamp": ""
+            },
+            {
+                "name": "孖岭站",
+                "id": "22",
+                "time_stamp": ""
+            },
+            {
+                "name": "银湖站",
+                "id": "23",
+                "time_stamp": ""
+            },
+            {
+                "name": "泥岗站",
+                "id": "24",
+                "time_stamp": ""
+            },
+            {
+                "name": "红岭北站",
+                "id": "25",
+                "time_stamp": ""
+            },
+            {
+                "name": "园岭站",
+                "id": "26",
+                "time_stamp": ""
+            },
+            {
+                "name": "红岭站",
+                "id": "27",
+                "time_stamp": ""
+            },
+            {
+                "name": "红岭南站",
+                "id": "28",
+                "time_stamp": ""
+            },
+            {
+                "name": "鹿丹村站",
+                "id": "29",
+                "time_stamp": ""
+            },
+            {
+                "name": "人民站",
+                "id": "30",
+                "time_stamp": ""
+            },
+            {
+                "name": "向西村站",
+                "id": "31",
+                "time_stamp": ""
+            },
+            {
+                "name": "文锦站",
+                "id": "32",
+                "time_stamp": ""
+            }
+        ]
+    },
+    {
+        "line": "10",
+        "station": [
+            {
+                "name": "双拥街站",
+                "id": "01",
+                "time_stamp": ""
+            },
+            {
+                "name": "平湖站",
+                "id": "02",
+                "time_stamp": ""
+            },
+            {
+                "name": "禾花站",
+                "id": "03",
+                "time_stamp": ""
+            },
+            {
+                "name": "华南城站",
+                "id": "04",
+                "time_stamp": ""
+            },
+            {
+                "name": "木古站",
+                "id": "05",
+                "time_stamp": ""
+            },
+            {
+                "name": "上李朗站",
+                "id": "06",
+                "time_stamp": ""
+            },
+            {
+                "name": "凉帽山站",
+                "id": "07",
+                "time_stamp": ""
+            },
+            {
+                "name": "甘坑站",
+                "id": "08",
+                "time_stamp": ""
+            },
+            {
+                "name": "雪象站",
+                "id": "09",
+                "time_stamp": ""
+            },
+            {
+                "name": "岗头站",
+                "id": "10",
+                "time_stamp": ""
+            },
+            {
+                "name": "华为站",
+                "id": "11",
+                "time_stamp": ""
+            },
+            {
+                "name": "贝尔路站",
+                "id": "12",
+                "time_stamp": ""
+            },
+            {
+                "name": "坂田北站",
+                "id": "13",
+                "time_stamp": ""
+            },
+            {
+                "name": "五和站",
+                "id": "14",
+                "time_stamp": ""
+            },
+            {
+                "name": "光雅园站",
+                "id": "15",
+                "time_stamp": ""
+            },
+            {
+                "name": "南坑站",
+                "id": "16",
+                "time_stamp": ""
+            },
+            {
+                "name": "雅宝站",
+                "id": "17",
+                "time_stamp": ""
+            },
+            {
+                "name": "孖岭站",
+                "id": "18",
+                "time_stamp": ""
+            },
+            {
+                "name": "冬瓜岭站",
+                "id": "19",
+                "time_stamp": ""
+            },
+            {
+                "name": "莲花村站",
+                "id": "20",
+                "time_stamp": ""
+            },
+            {
+                "name": "岗厦北站",
+                "id": "21",
+                "time_stamp": ""
+            },
+            {
+                "name": "岗厦站",
+                "id": "22",
+                "time_stamp": ""
+            },
+            {
+                "name": "福民站",
+                "id": "23",
+                "time_stamp": ""
+            },
+            {
+                "name": "福田口岸站",
+                "id": "24",
+                "time_stamp": ""
+            }
+        ]
+    },
+    {
+        "line": "11",
+        "station": [
+            {
+                "name": "红岭南站",
+                "id": "01",
+                "time_stamp": ""
+            },
+            {
+                "name": "华强南站",
+                "id": "02",
+                "time_stamp": ""
+            },
+            {
+                "name": "福星站",
+                "id": "03",
+                "time_stamp": ""
+            },
+            {
+                "name": "岗厦北站",
+                "id": "04",
+                "time_stamp": ""
+            },
+            {
+                "name": "福田站",
+                "id": "05",
+                "time_stamp": ""
+            },
+            {
+                "name": "车公庙站",
+                "id": "06",
+                "time_stamp": ""
+            },
+            {
+                "name": "红树湾南站",
+                "id": "07",
+                "time_stamp": ""
+            },
+            {
+                "name": "后海站",
+                "id": "08",
+                "time_stamp": ""
+            },
+            {
+                "name": "南山站",
+                "id": "09",
+                "time_stamp": ""
+            },
+            {
+                "name": "前海湾站",
+                "id": "10",
+                "time_stamp": ""
+            },
+            {
+                "name": "宝安站",
+                "id": "11",
+                "time_stamp": ""
+            },
+            {
+                "name": "碧海湾站",
+                "id": "12",
+                "time_stamp": ""
+            },
+            {
+                "name": "机场站",
+                "id": "13",
+                "time_stamp": ""
+            },
+            {
+                "name": "机场北站",
+                "id": "14",
+                "time_stamp": ""
+            },
+            {
+                "name": "福永站",
+                "id": "15",
+                "time_stamp": ""
+            },
+            {
+                "name": "桥头站",
+                "id": "16",
+                "time_stamp": ""
+            },
+            {
+                "name": "塘尾站",
+                "id": "17",
+                "time_stamp": ""
+            },
+            {
+                "name": "马安山站",
+                "id": "18",
+                "time_stamp": ""
+            },
+            {
+                "name": "沙井站",
+                "id": "19",
+                "time_stamp": ""
+            },
+            {
+                "name": "后亭站",
+                "id": "20",
+                "time_stamp": ""
+            },
+            {
+                "name": "松岗站",
+                "id": "21",
+                "time_stamp": ""
+            },
+            {
+                "name": "碧头站",
+                "id": "22",
+                "time_stamp": ""
+            }
+        ]
+    },
+    {
+        "line": "12",
+        "station": [
+            {
+                "name": "左炮台东站",
+                "id": "01",
+                "time_stamp": ""
+            },
+            {
+                "name": "太子湾站",
+                "id": "02",
+                "time_stamp": ""
+            },
+            {
+                "name": "海上世界站",
+                "id": "03",
+                "time_stamp": ""
+            },
+            {
+                "name": "花果山站",
+                "id": "04",
+                "time_stamp": ""
+            },
+            {
+                "name": "四海站",
+                "id": "05",
+                "time_stamp": ""
+            },
+            {
+                "name": "南油站",
+                "id": "06",
+                "time_stamp": ""
+            },
+            {
+                "name": "南光站",
+                "id": "07",
+                "time_stamp": ""
+            },
+            {
+                "name": "南山站",
+                "id": "08",
+                "time_stamp": ""
+            },
+            {
+                "name": "桃园站",
+                "id": "09",
+                "time_stamp": ""
+            },
+            {
+                "name": "南头古城站",
+                "id": "10",
+                "time_stamp": ""
+            },
+            {
+                "name": "中山公园站",
+                "id": "11",
+                "time_stamp": ""
+            },
+            {
+                "name": "同乐南站",
+                "id": "12",
+                "time_stamp": ""
+            },
+            {
+                "name": "新安公园站",
+                "id": "13",
+                "time_stamp": ""
+            },
+            {
+                "name": "灵芝站",
+                "id": "14",
+                "time_stamp": ""
+            },
+            {
+                "name": "上川站",
+                "id": "15",
+                "time_stamp": ""
+            },
+            {
+                "name": "流塘站",
+                "id": "16",
+                "time_stamp": ""
+            },
+            {
+                "name": "宝安客运站",
+                "id": "17",
+                "time_stamp": ""
+            },
+            {
+                "name": "宝田一路站",
+                "id": "18",
+                "time_stamp": ""
+            },
+            {
+                "name": "平峦山站",
+                "id": "19",
+                "time_stamp": ""
+            },
+            {
+                "name": "西乡桃源站",
+                "id": "20",
+                "time_stamp": ""
+            },
+            {
+                "name": "钟屋南站",
+                "id": "21",
+                "time_stamp": ""
+            },
+            {
+                "name": "黄田站",
+                "id": "22",
+                "time_stamp": ""
+            },
+            {
+                "name": "兴围站",
+                "id": "23",
+                "time_stamp": ""
+            },
+            {
+                "name": "机场东站",
+                "id": "24",
+                "time_stamp": ""
+            },
+            {
+                "name": "福围站",
+                "id": "25",
+                "time_stamp": ""
+            },
+            {
+                "name": "怀德站",
+                "id": "26",
+                "time_stamp": ""
+            },
+            {
+                "name": "福永站",
+                "id": "27",
+                "time_stamp": ""
+            },
+            {
+                "name": "桥头西站",
+                "id": "28",
+                "time_stamp": ""
+            },
+            {
+                "name": "福海西站",
+                "id": "29",
+                "time_stamp": ""
+            },
+            {
+                "name": "国展站",
+                "id": "30",
+                "time_stamp": ""
+            },
+            {
+                "name": "国展北站",
+                "id": "31",
+                "time_stamp": ""
+            },
+            {
+                "name": "海上田园南站",
+                "id": "32",
+                "time_stamp": ""
+            },
+            {
+                "name": "海上田园东站",
+                "id": "33",
+                "time_stamp": ""
+            },
+            {
+                "name": "蚝乡站",
+                "id": "34",
+                "time_stamp": ""
+            },
+            {
+                "name": "沙蚝站",
+                "id": "35",
+                "time_stamp": ""
+            },
+            {
+                "name": "沙井古墟站",
+                "id": "36",
+                "time_stamp": ""
+            },
+            {
+                "name": "步涌站",
+                "id": "37",
+                "time_stamp": ""
+            },
+            {
+                "name": "朗下站",
+                "id": "38",
+                "time_stamp": ""
+            },
+            {
+                "name": "松岗站",
+                "id": "39",
+                "time_stamp": ""
+            }
+        ]
+    },
+    {
+        "line": "13",
+        "station": [
+            {
+                "name": "深圳湾口岸站",
+                "id": "01",
+                "time_stamp": ""
+            },
+            {
+                "name": "人才公园站",
+                "id": "02",
+                "time_stamp": ""
+            },
+            {
+                "name": "后海站",
+                "id": "03",
+                "time_stamp": ""
+            },
+            {
+                "name": "科苑站",
+                "id": "04",
+                "time_stamp": ""
+            },
+            {
+                "name": "粤海门站",
+                "id": "05",
+                "time_stamp": ""
+            },
+            {
+                "name": "深大站",
+                "id": "06",
+                "time_stamp": ""
+            },
+            {
+                "name": "高新中站",
+                "id": "07",
+                "time_stamp": ""
+            },
+            {
+                "name": "高新北站",
+                "id": "08",
+                "time_stamp": ""
+            },
+            {
+                "name": "石鼓站",
+                "id": "09",
+                "time_stamp": ""
+            },
+            {
+                "name": "留仙洞站",
+                "id": "10",
+                "time_stamp": ""
+            },
+            {
+                "name": "百旺站",
+                "id": "11",
+                "time_stamp": ""
+            },
+            {
+                "name": "应人石站",
+                "id": "12",
+                "time_stamp": ""
+            },
+            {
+                "name": "罗租站",
+                "id": "13",
+                "time_stamp": ""
+            },
+            {
+                "name": "石岩站",
+                "id": "14",
+                "time_stamp": ""
+            },
+            {
+                "name": "上屋站",
+                "id": "15",
+                "time_stamp": ""
+            }
+        ]
+    },
+    {
+        "line": "14",
+        "station": [
+            {
+                "name": "沙田站",
+                "id": "01",
+                "time_stamp": ""
+            },
+            {
+                "name": "坑梓站",
+                "id": "02",
+                "time_stamp": ""
+            },
+            {
+                "name": "坪山中心站",
+                "id": "03",
+                "time_stamp": ""
+            },
+            {
+                "name": "坪山广场站",
+                "id": "04",
+                "time_stamp": ""
+            },
+            {
+                "name": "坪山围站",
+                "id": "05",
+                "time_stamp": ""
+            },
+            {
+                "name": "锦龙站",
+                "id": "06",
+                "time_stamp": ""
+            },
+            {
+                "name": "宝龙站",
+                "id": "07",
+                "time_stamp": ""
+            },
+            {
+                "name": "南约站",
+                "id": "08",
+                "time_stamp": ""
+            },
+            {
+                "name": "嶂背站",
+                "id": "09",
+                "time_stamp": ""
+            },
+            {
+                "name": "大运站",
+                "id": "10",
+                "time_stamp": ""
+            },
+            {
+                "name": "坳背站",
+                "id": "11",
+                "time_stamp": ""
+            },
+            {
+                "name": "四联站",
+                "id": "12",
+                "time_stamp": ""
+            },
+            {
+                "name": "六约北站",
+                "id": "13",
+                "time_stamp": ""
+            },
+            {
+                "name": "石芽岭站",
+                "id": "14",
+                "time_stamp": ""
+            },
+            {
+                "name": "布吉站",
+                "id": "15",
+                "time_stamp": ""
+            },
+            {
+                "name": "罗湖北站",
+                "id": "16",
+                "time_stamp": ""
+            },
+            {
+                "name": "黄木岗站",
+                "id": "17",
+                "time_stamp": ""
+            },
+            {
+                "name": "岗厦北站",
+                "id": "18",
+                "time_stamp": ""
+            }
+        ]
+    },
+    {
+        "line": "16",
+        "station": [
+            {
+                "name": "田心站",
+                "id": "01",
+                "time_stamp": ""
+            },
+            {
+                "name": "技术大学站",
+                "id": "02",
+                "time_stamp": ""
+            },
+            {
+                "name": "石井站",
+                "id": "03",
+                "time_stamp": ""
+            },
+            {
+                "name": "燕子湖站",
+                "id": "04",
+                "time_stamp": ""
+            },
+            {
+                "name": "沙壆站",
+                "id": "05",
+                "time_stamp": ""
+            },
+            {
+                "name": "东纵纪念馆站",
+                "id": "06",
+                "time_stamp": ""
+            },
+            {
+                "name": "坪环站",
+                "id": "07",
+                "time_stamp": ""
+            },
+            {
+                "name": "坪山围站",
+                "id": "08",
+                "time_stamp": ""
+            },
+            {
+                "name": "六和站",
+                "id": "09",
+                "time_stamp": ""
+            },
+            {
+                "name": "新和站",
+                "id": "10",
+                "time_stamp": ""
+            },
+            {
+                "name": "坪山站",
+                "id": "11",
+                "time_stamp": ""
+            },
+            {
+                "name": "宝龙同乐站",
+                "id": "12",
+                "time_stamp": ""
+            },
+            {
+                "name": "龙东站",
+                "id": "13",
+                "time_stamp": ""
+            },
+            {
+                "name": "新塘围站",
+                "id": "14",
+                "time_stamp": ""
+            },
+            {
+                "name": "双龙站",
+                "id": "15",
+                "time_stamp": ""
+            },
+            {
+                "name": "龙园站",
+                "id": "16",
+                "time_stamp": ""
+            },
+            {
+                "name": "盛平站",
+                "id": "17",
+                "time_stamp": ""
+            },
+            {
+                "name": "尚景站",
+                "id": "18",
+                "time_stamp": ""
+            },
+            {
+                "name": "回龙埔站",
+                "id": "19",
+                "time_stamp": ""
+            },
+            {
+                "name": "愉园站",
+                "id": "20",
+                "time_stamp": ""
+            },
+            {
+                "name": "黄阁坑站",
+                "id": "21",
+                "time_stamp": ""
+            },
+            {
+                "name": "龙城公园站",
+                "id": "22",
+                "time_stamp": ""
+            },
+            {
+                "name": "大运中心站",
+                "id": "23",
+                "time_stamp": ""
+            },
+            {
+                "name": "大运站",
+                "id": "24",
+                "time_stamp": ""
+            },
+            {
+                "name": "金源站",
+                "id": "25",
+                "time_stamp": ""
+            },
+            {
+                "name": "吉溪站",
+                "id": "26",
+                "time_stamp": ""
+            },
+            {
+                "name": "大安站",
+                "id": "27",
+                "time_stamp": ""
+            },
+            {
+                "name": "园山站",
+                "id": "28",
+                "time_stamp": ""
+            },
+            {
+                "name": "大康站",
+                "id": "29",
+                "time_stamp": ""
+            },
+            {
+                "name": "福坑站",
+                "id": "30",
+                "time_stamp": ""
+            },
+            {
+                "name": "安良站",
+                "id": "31",
+                "time_stamp": ""
+            },
+            {
+                "name": "园山西坑站",
+                "id": "32",
+                "time_stamp": ""
+            }
+        ]
+    },
+    {
+        "line": "20",
+        "station": [
+            {
+                "name": "机场北站",
+                "id": "01",
+                "time_stamp": ""
+            },
+            {
+                "name": "国展南站",
+                "id": "02",
+                "time_stamp": ""
+            },
+            {
+                "name": "国展站",
+                "id": "03",
+                "time_stamp": ""
+            },
+            {
+                "name": "国展北站",
+                "id": "04",
+                "time_stamp": ""
+            },
+            {
+                "name": "会展城站",
+                "id": "05",
+                "time_stamp": ""
+            }
+        ]
+    }
+]

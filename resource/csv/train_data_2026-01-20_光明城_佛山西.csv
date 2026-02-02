@@ -1,0 +1,2 @@
+﻿count,train_code,departure_station,destination_station,depart_time,arrive_time,during_time,business_class,special_class,first_class,second_class,soft_sleeper,hard_sleeper,hard_seat,no_seat,strict_mode,hs
+1,__NO_DATA__,,,,,,,,,,,,,,n,
