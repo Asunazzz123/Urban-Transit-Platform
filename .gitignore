@@ -1,0 +1,5 @@
+backend/__pycache__/
+resource/csv/*.csv
+backend/transit-routing-engine/.vs
+backend/transit-routing-engine/out
+
