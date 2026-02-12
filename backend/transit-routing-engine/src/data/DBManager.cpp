@@ -32,7 +32,7 @@ int DBManager::insert_Station(const Station& data)
         std::cerr << "Prepare Error: " << sqlite3_errmsg(db) << std::endl;
         return -1;
     }
-    sqlite3_bind_text(stmt, 1, data.city_name.c_str(). - 1, SQLITE_TRANSIENT);
+    sqlite3_bind_text(stmt, 1, data.city_name.c_str(), -1, SQLITE_TRANSIENT);
     sqlite3_bind_int(stmt, 2, data.station_id);
     sqlite3_bind_text(stmt, 3, data.name.c_str(), -1, SQLITE_TRANSIENT);
 
@@ -83,9 +83,10 @@ int DBManager::insert_StationLine(const StationLine& data)
         return -1;
     }
 
-    sqlite3_bind_int(stmt, 1, data.station_line_id);
-    sqlite3_bind_int(stmt, 2, data.station_id);
-    sqlite3_bind_int(stmt, 3, data.line_id);
+    sqlite3_bind_text(stmt, 1, data.city_name.c_str(), -1, SQLITE_TRANSIENT);
+    sqlite3_bind_int(stmt, 2, data.station_line_id);
+    sqlite3_bind_int(stmt, 3, data.station_id);
+    sqlite3_bind_int(stmt, 4, data.line_id);
     int result = 0;
     if (sqlite3_step(stmt) != SQLITE_DONE) {
         std::cerr << "Insert Error: " << sqlite3_errmsg(db) << std::endl;

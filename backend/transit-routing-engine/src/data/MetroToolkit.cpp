@@ -12,11 +12,11 @@ MetroToolkit::MetroToolkit(DBManager& db_)
     : db(db_)
 {
     // 预加载 name -> id
-    for (const auto& s : db.getStations()) {
+    for (const auto& s : db.get_Stations()) {
         stationNameToId[s.name] = s.station_id;
     }
 
-    for (const auto& l : db.getLines()) {
+    for (const auto& l : db.get_Lines()) {
         lineNameToId[l.name] = l.line_id;
     }
 
@@ -29,9 +29,9 @@ MetroToolkit::MetroToolkit(DBManager& db_)
 
 void MetroToolkit::buildGraph()
 {
-    const auto stationLines = db.getStationLines();
-    const auto travelEdges = db.getTravelEdges();
-    const auto transferEdges = db.getTransferEdges();
+    const auto stationLines = db.get_StationLines();
+    const auto travelEdges = db.get_TravelEdges();
+    const auto transferEdges = db.get_TransferEdges();
 
     // 1. 创建 node
     for (const auto& sl : stationLines) {

@@ -8,11 +8,29 @@ project(transit-routing-engine VERSION 1.0)
 # ==========================================
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
+set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
 
 # ==========================================
 # 2. 依赖查找 (SQLite3)
 # ==========================================
-find_package(SQLite3 REQUIRED)
+include(FetchContent)
+
+# 下载并编译 SQLite3
+FetchContent_Declare(
+    sqlite3
+    URL https://www.sqlite.org/2024/sqlite-amalgamation-3450100.zip
+    DOWNLOAD_EXTRACT_TIMESTAMP TRUE
+)
+
+FetchContent_MakeAvailable(sqlite3)
+
+# 创建 SQLite3 库目标
+add_library(sqlite3_lib STATIC ${sqlite3_SOURCE_DIR}/sqlite3.c)
+target_include_directories(sqlite3_lib PUBLIC ${sqlite3_SOURCE_DIR})
+
+# 创建别名以兼容原有代码
+add_library(SQLite::SQLite3 ALIAS sqlite3_lib)
+set(SQLite3_FOUND TRUE)
 
 # ==========================================
 # 3. 头文件路径
@@ -28,7 +46,7 @@ include_directories(${CMAKE_SOURCE_DIR}/include)
 set(SOURCE_FILES
     # 核心业务逻辑
     src/core/main.cpp
-    src/core/MetroToolkit.cpp
+    src/data/MetroToolkit.cpp
     
     # 数据层
     src/data/DBManager.cpp
@@ -45,10 +63,8 @@ add_executable(${PROJECT_NAME} ${SOURCE_FILES})
 # ==========================================
 # 6. 链接库
 # ==========================================
-if(SQLite3_FOUND)
-    target_link_libraries(${PROJECT_NAME} PRIVATE SQLite::SQLite3)
-    message(STATUS "SQLite3 found and linked.")
-endif()
+target_link_libraries(${PROJECT_NAME} PRIVATE SQLite::SQLite3)
+message(STATUS "SQLite3 configured and will be linked.")
 
 # ==========================================
 # 7. 调试信息 (可选)

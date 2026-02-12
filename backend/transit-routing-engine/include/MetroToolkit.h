@@ -24,7 +24,7 @@ public:
         const std::string& from_line,
         const std::string& to_station,
         const std::string& to_line,
-        int transfer_penalty)
+        int transfer_penalty);
 private:
     // ===== 内部图结构 =====
     struct Node {
@@ -35,7 +35,7 @@ private:
     struct Edge {
         int to;
         int weight; 
-        bool is_transfer
+        bool is_transfer;
     };
 
     // ===== 核心构建 =====
